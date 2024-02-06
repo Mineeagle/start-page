@@ -110,6 +110,7 @@
     } else if (ip_match != null) {
       window.location.href = ip_match[0].substring(0, 4) == "http" ? ip_match[0] : "http://" + ip_match[0];
     } else {
+      console.log(search_url + encodeURIComponent(search_term));
       window.location.href = search_url + encodeURIComponent(search_term);
     }
 
