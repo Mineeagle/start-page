@@ -14,6 +14,9 @@ Here is a [Live Preview](https://nainish-startpage.netlify.app/)
 ##### Method 2:
 - Copy this Page [link](https://nainish-startpage.netlify.app/) and use it as custom url homepage
 
+#### Method 3
+- Copy this Page [link](https://mineeagle.github.io/start_page/) and use it as custom url homepage
+
 ### Changing-Themes 
 - You can change theme using the menu given at top-right corner.
 - You can use a specific-theme by using method-1.
