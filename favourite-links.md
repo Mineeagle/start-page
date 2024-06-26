@@ -5,7 +5,7 @@
 
 # Social
 - Reddit          https://www.reddit.com/
-- WhatsAp         https://web.whatsapp.com/
+- WhatsApp        https://web.whatsapp.com/
 - Telegram        https://web.telegram.org/z/
 
 # Languages
