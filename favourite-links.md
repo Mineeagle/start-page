@@ -1,7 +1,3 @@
-[//]: # (Title: Marketing Meeting Notes)
-[//]: # (Title: Marketing Meeting Notes)
-[//]: # foo
-
 # Media
 - Youtube         https://www.youtube.com
 - Twitch          https://www.twitch.tv
