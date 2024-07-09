@@ -1,6 +1,4 @@
----
-mdid: 0
----
+[//]: # (Title: Marketing Meeting Notes)  
 
 # Media
 - Youtube         https://www.youtube.com
