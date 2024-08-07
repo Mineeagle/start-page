@@ -16,5 +16,5 @@
 # Server
 - Homepage        http://192.168.178.55:3000
 - Filebrowser     http://192.168.178.55:8080
-- Logs            http://192.168.178.55:5000/log/?identifier=sort&from_date=&src=all&sorting_field=timestamp&sorting=asc&empty_ends=on&no_starts=on#"
+- Logs            http://192.168.178.55:5000/log/?identifier=sort&from_date=&src=all&sorting_field=timestamp&sorting=asc&empty_ends=on&no_starts=on#
            
